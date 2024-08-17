@@ -1,4 +1,4 @@
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31tvn6y7tjpbzwvacw3iitologtq&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=true" alt="spotify" align="right"/>
+<img https://telegra.ph/file/895541580f56406caedbd.png" alt="spotify" align="right"/>
       <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
     </a> 
   
@@ -39,3 +39,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+https://camo.githubusercontent.com/2968427fc5cb365c930900d11f440a5225f7b4c42c5380652b55c8a174ddc1ee/68747470733a2f2f73706f746966792d6769746875622d70726f66696c652e76657263656c2e6170702f6170692f766965773f7569643d333174766e367937746a70627a7776616377336969746f6c6f67747126636f7665725f696d6167653d74727565267468656d653d64656661756c74266261725f636f6c6f723d303066663030266261725f636f6c6f725f636f7665723d74727565
