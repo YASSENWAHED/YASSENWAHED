@@ -56,7 +56,7 @@
 </p>
 
 
-<h2 align="center"> I will keep running and improving my progress day by day...
+<h2 align="center"> سأستمر في الركض وتحسين تقدمي يومًا بعد يوم...
 </h2>
 
 <p align="center">
