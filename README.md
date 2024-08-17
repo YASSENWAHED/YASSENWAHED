@@ -5,7 +5,6 @@
     <img src="https://github.com/abrahamdw882/ABBOTWEB.github.io/blob/main/Guru.jpg"width="180" > </a>
     </p>
 
-
 <div align="center">
     <img
         src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hey+Bro+Itz+Mr+Yassen+;Thanks+for+Visiting+;Follow+my+github"
@@ -38,7 +37,7 @@
 <br>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrjuice01)](https://github.com/abrahamdw882)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrjuice01)](https://t.me/YA55EN0)
 
 <br>
 
@@ -52,7 +51,7 @@
 </h2>
 
 <p align="center">
-   <a href="https://github.com/abrahamdw882">
+   <a href="https://t.me/YA55EN0">
     <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dino_rounded.gif" width="800"> </a>
     </p>
 <br>
