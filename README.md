@@ -1,4 +1,4 @@
-<img https://telegra.ph/file/895541580f56406caedbd.png" alt="spotify" align="right"/>
+
       <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
     </a> 
   
