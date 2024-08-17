@@ -33,10 +33,6 @@
 </p>
 
 
-<h3 align="left"> Bugs1 A Powerfull IOS & Android Bug 
-</h3>
-<br><br><br>
-
 # My Github Status:
  
 <br>
