@@ -1,6 +1,4 @@
-
-      <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
-    </a> 
+ 
   
   </p>
 
