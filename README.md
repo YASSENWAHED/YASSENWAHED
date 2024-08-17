@@ -106,10 +106,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
 
-#### If you have any queries or suggestions then you can contact me i will be happy to respond. 
-<br> 
-  
-  </p>
+
 
 
 ---
