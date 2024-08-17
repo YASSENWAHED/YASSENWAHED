@@ -9,9 +9,9 @@
 
 # 📫 How to reach me:
 
-[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923184474176)
+[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201154869468?text=جتلك+من+المنصه🗿💗)
 
-[![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/SuhailTechInfo0) 
+[![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/YA55EN) 
 
 [![Linked In](https://img.shields.io/badge/linkedIn-1b77FF.svg?style=for-the-badge&logo=linkedIn)](https://www.linkedin.com/in/m-suhail-6839552a2/) <br>
 
