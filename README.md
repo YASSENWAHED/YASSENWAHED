@@ -18,11 +18,11 @@
 
 
 # My about:
-- Im currently a student.
-- Im currently learning I.T and Also How to become a Developer 
-- I'm intesested in both procedural languages(C, Bash) and object oriented language(Js, c++).
-- My current ongoing projects are: Whatsapp Bot, Termux and Khali Srcipts.
-- Currently working on [ANIME WEBSITE](https://ab-streamer.vercel.app/)
+- أنا طالب حاليا.
+- أتعلم حاليًا تكنولوجيا المعلومات وأيضًا كيف أصبح مطورًا
+- أنا مهتم بكل من لغات البرمجه ( html , css , javascript)
+- موقعي الشخصي
+- (https://yassen.netlify.app/)
 
 <br>
 <br>
