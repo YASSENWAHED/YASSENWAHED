@@ -42,14 +42,6 @@
 
 <br>
 
-![Github Badges](https://github-readme-stats.vercel.app/api?username=abrahamdw882&show_icons=true&theme=vision-friendly-dark)
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamdw882&layout=compact)](https://github.com/abeahamdw882/github-readme-stats)<br>
-![My Profile Views](https://wa.me//233533763772whatsapp)
-<br>
-<br>
-<br>
 
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
@@ -67,7 +59,7 @@
 
 ---
 
-# 📫 How to reach me:
+# 📫 للتواصل معي :
 
 [![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201154869468?text=جتلك+من+المنصه🗿💗)
 
