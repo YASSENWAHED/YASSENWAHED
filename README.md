@@ -17,7 +17,7 @@
 
 
 
-# My about:
+# My about :
 - أنا طالب حاليا.
 - أتعلم حاليًا تكنولوجيا المعلومات وأيضًا كيف أصبح مطورًا
 - أنا مهتم بكل من لغات البرمجه ( html , css , javascript)
@@ -26,7 +26,7 @@
 
 <br>
 <br>
-<p align="center">Hello, World🤞 welcome |©AB BOT DEV🤖|please code with me ok😁 ! </p>
+<p align="center"> Welcome to my world ! </p>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/55116927/188319849-9d4fed2d-497e-4ce3-9f06-8d3843f05cb4.gif" alt="nz" width="200"/>
