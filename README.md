@@ -32,10 +32,6 @@
 <img src="https://user-images.githubusercontent.com/55116927/188319849-9d4fed2d-497e-4ce3-9f06-8d3843f05cb4.gif" alt="nz" width="200"/>
 </p>
 
-# My Recent Project:
-- [⚡ (My Main web)](https://ab-webl.vercel.app)
-<p align="left">
-   <a href="https://ab-web.vercel.app>
     <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="300">  
 </p>
 
@@ -74,32 +70,6 @@
     <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dino_rounded.gif" width="800"> </a>
     </p>
 <br>
-
-# My Popular Repositories:
-
--   [AB portfolio Beta]( https://github.com/abrahamdw882/ABBOTWEB.github.io/blob/main/abraham.jpg)
-
--   [Insta Followers](https://github.com/abrahamdw882/insfollow)
-
--   [WhatsApp-banner-Master](https://github.com/abrahamdw882/Whatsapp-Bann-Master)
-
-<br>
-<br>
-<br>
-
-
-<div align="center">
-    <img
-        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Thanks+for+your+visit;+Chat+me+below👇;+Bye+Have+a+good+Day"
-
-<!-- Contact Mr Abraham -->
-<b><details><summary>Click to Chat Me</summary></b>
-
-## ```Connect With Mr Abraham```
-
-
-
-
 
 ---
 
