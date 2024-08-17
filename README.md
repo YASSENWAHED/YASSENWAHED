@@ -60,7 +60,8 @@
 
 # 📫 للتواصل معي :
 
-[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201154869468?text=جتلك+من+المنصه🗿💗)
+[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](
+https://whatsapp.com/channel/0029VaMe7eCEAKWHyud72j2H)
 
 [![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/YA55EN) 
 
